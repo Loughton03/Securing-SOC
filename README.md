@@ -16,6 +16,8 @@ In this project, I enhanced the Honeynet I created in the previous project (Buil
 
 ![Compliance Controls](https://imgur.com/xcp3S5v.png)
 
+![Quick Fixes](https://imgur.com/fbE1YOU.png)
+
 ![Compliance Controls](https://imgur.com/1aRo0hQ.png)
 
 
