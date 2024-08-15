@@ -1,4 +1,4 @@
-## 
+## Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant
 
 ![image](https://imgur.com/nnRtlHr.png)
 
