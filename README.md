@@ -3,7 +3,17 @@
 ![image](https://imgur.com/nnRtlHr.png)
 
 ## Introduction
-In this project, I enhanced the Honeynet I created in the previous project (Building a SOC + Honeynet) by aligning it with the NIST SP 800-53 R5 regulatory compliance standards. I addressed several non-compliant controls identified within the security metrics in Microsoft Azure to strengthen the environment, reduce or eliminate attacks, and ensure ongoing compliance.
+In this project, I enhanced the Honeynet I created in the previous project (Building a SOC + Honeynet) by aligning it with the NIST SP 800-53 R5 regulatory compliance standards. I addressed several non-compliant controls identified within the security metrics in Microsoft Azure to strengthen the environment, reduce or eliminate attacks, and ensure ongoing compliance. The compliance metrics that need remediation are:
+
+  - AC: Access Control
+  - AU: Audit and Accountability
+  - CP: Contingency Planning
+  - IA: Identification and Authentication
+  - IR: Incident Response
+  - RA: Risk Assessment
+  - SC: System and Communications Protection
+  - SI: System and Information Integrity
+
 
 
 ## Ratings Before Hardening/Security Controls
